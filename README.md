@@ -1,11 +1,6 @@
-# Project Title
+<h1 >Project Title: Foodie</h1> 
 
-Foodie
-
-## Demo Link
-<!-- https://dev-ls.sirovate.com/login -->
-
-## Table of Contents
+## Table of Content
 
 - [About the Project](#about-the-project)
 
@@ -31,13 +26,15 @@ Welcome to the Your Food Delight project – your one-stop destination for explo
 
 - **Create Orders:** Users can curate their ideal meal by adding items from the menu to their cart. Our seamless cart functionality lets users review their selections, make modifications, and proceed to the checkout stage.
 
-Ther are some images through which we can idea of our UI.
+There are some images through which we can idea of our UI.
 
-![ui-2](https://github.com/amitazadi/counter-app/assets/56012894/306bcbd8-2c80-4fea-bb52-c86f100c4194)
+![ss-5](https://github.com/amitazadi/Foodie/assets/56012894/a18de84c-676c-409d-b052-0b8545009002)
 
-After login, the dashboard looks like this.
+![ss-2](https://github.com/amitazadi/Foodie/assets/56012894/85b07478-ee9b-42fc-b270-6aba2d9a3da7)
 
-![ui-3](https://github.com/amitazadi/amitazadi/assets/56012894/76b8ed5f-09c6-4ca4-9e82-a34582590c81)
+![ss-3](https://github.com/amitazadi/Foodie/assets/56012894/bffea443-5a9f-4d8c-8f16-46888ee9462d)
+
+![ss-4](https://github.com/amitazadi/Foodie/assets/56012894/4a0d6a40-dfdc-42a4-88e8-921de6f4bfe9)
 
 ### Key Features
 
