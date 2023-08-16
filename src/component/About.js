@@ -47,7 +47,7 @@ const About = () => {
           <span className="text-green-700">◉&nbsp;</span> 
           <a
             className="flex w-fit items-center gap-2 text-blue-800"
-            href="https://github.com/rakhikeshri/Foodie-react-app"
+            href="https://github.com/amitazadi/Foodie"
             target="_blank"
           >
             <p className="hover:font-bold transition-all">
